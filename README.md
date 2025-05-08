@@ -1,4 +1,4 @@
-1. Hiow to run the code
+1. How to run the code
 npm install 
 npm run dev
 
