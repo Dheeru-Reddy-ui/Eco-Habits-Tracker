@@ -4,4 +4,3 @@ The Eco Habits Tracker is a simple yet powerful tool that empowers individuals t
 2.How to run the code
 (npm install)> 
 (npm run dev)
-
